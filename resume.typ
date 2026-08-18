@@ -20,3 +20,15 @@
   location: "Lincoln, NE",
   date: "May 2027",
 )
+#resume_heading[Experience]
+#exp_item(
+  role: "Software Engineering Intern (Hardware)",
+  name: "Hudl",
+  location: "Lincoln, NE",
+  date: "May 2025 - Present",
+  [Improved developer experience by optimizing usage of Docker to reduce warm compile times from *3m to 20s*],
+  [Finalized manual control beta to open up Hudl to an estimated *\$3 million* in new revenue from soccer],
+  [Maintained and added features to the Hudl Focus React Native app, like native game controller support],
+  [Became the *\#1* contributer in an existing Rust repository used for controlling our brand new cameras],
+  [Utilized Claude Code and other AI tools to assist my workflows while practicing HITL (human-in-the-loop)]
+)
