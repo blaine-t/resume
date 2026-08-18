@@ -30,7 +30,7 @@
   [Improved developer experience by optimizing usage of Docker to reduce warm compile times from *3m to 20s*],
   [Finalized manual control beta to open up Hudl to an estimated *\$3 million* in new revenue from soccer],
   [Maintained and added features to the Hudl Focus React Native app, like native game controller support],
-  [Became the *\#1* contributer in an existing Rust repository used for controlling our brand new cameras],
+  [Became the *\#1* contributer in an existing Rust repository used for controlling our brand new sport cameras],
   [Utilized Claude Code and other AI tools to assist my workflows while practicing HITL (human-in-the-loop)]
 )
 #exp_item(
@@ -39,7 +39,7 @@
   location: "Remote",
   date: "May 2024 - May 2025",
   [Improved developer experience by utilizing pnpm workspaces to reduce hot reloads from *200s to 2s* in Next.js],
-  [Worked with a remote team and lead Agile Scrum ceremonies to ensure epics and milestones were met on time],
-  [Migrated and refactored React contexts to Zustand stores to improve performance and reduce bounce rates],
+  [Collaborated with a remote team and lead Agile Scrum ceremonies to ensure epics were met on time],
+  [Migrated React contexts to Zustand stores to improve performance and reduce E-commerce bounce rates],
   [Developed .NET endpoints with GraphQL, creating industry leading experience for engine-swapped vehicles],
 )
