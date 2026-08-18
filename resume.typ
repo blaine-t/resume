@@ -50,3 +50,12 @@
   date: "January 2024 - May 2025",
   [Mentored and provided positive feedback to new students from different backgrounds on CS fundamentals]
 )
+
+#resume_heading[Projects]
+#project_item(
+  name: link("https://github.com/USS-Watson/corncycle-game")[CornCycle],
+  skills: link("https://github.com/USS-Watson/corncycle-hw")[Hardware],
+  date: "February 2025",
+  [Won *2nd* place at Corn Hacks experimenting with Bluepad32, ESP-NOW, OpenCV, and Pygame],
+  [Built RC Cars with ESP32s and IR LEDs that interacted with the game through an Xbox Kinect and Pico W],
+)
