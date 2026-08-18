@@ -73,3 +73,13 @@
   [Won *1st* place at Corn Hacks for an AI-powered murder mystery game that generated a new story every time],
   [Coordinated a team of 4 people to interface between a custom API server, a Rust game, and C++ hardware],
 )
+
+#resume_heading[Skills]
+#skill_item(
+  category: "Software Development",
+  skills: "C#, C++, Docker, GNU/Linux, JavaScript, .NET, Python, React, Rust, SQL, TypeScript",
+)
+#skill_item(
+  category: "Hardware Development",
+  skills: "Arduino, ESP-IDF, Pico SDK, custom x86 PCs, circuit/PCB design (KiCad)",
+)
