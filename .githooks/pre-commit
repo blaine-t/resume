@@ -1,9 +1,10 @@
 #!/bin/sh
 # Compile the resume before committing to catch Typst errors early.
-if ! typst compile resume.typ; then
+if ! typst compile resume.typ resume.pdf; ! typst compile resume.typ resume.png; then
     echo "pre-commit: 'typst compile resume.typ' failed — commit aborted." >&2
     exit 1
 fi
 
-# Stage the freshly compiled PDF so it always matches resume.typ.
+# Stage the freshly compiled PDF and PNG so it always matches resume.typ.
 git add resume.pdf
+git add resume.png
