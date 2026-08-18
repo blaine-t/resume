@@ -53,9 +53,23 @@
 
 #resume_heading[Projects]
 #project_item(
-  name: link("https://github.com/USS-Watson/corncycle-game")[CornCycle],
-  skills: link("https://github.com/USS-Watson/corncycle-hw")[Hardware],
+  name: link("https://www.traudt.dev/projects/corncycle")[CornCycle],
+  skills: "Hardware, Arduino, C, C++",
   date: "February 2025",
   [Won *2nd* place at Corn Hacks experimenting with Bluepad32, ESP-NOW, OpenCV, and Pygame],
   [Built RC Cars with ESP32s and IR LEDs that interacted with the game through an Xbox Kinect and Pico W],
+)
+#project_item(
+  name: link("https://www.traudt.dev/projects/lisa")[LISA — a Local Intelligent Student Advisor],
+  skills: "LLM, RAG, Intel AMX",
+  date: "September 2024",
+  [Won *2nd* place for the Red Hat Challenge at Hack Midwest 2024 utilizing Red Hat OpenShift powered by AWS],
+  [Developed in parallel with 3 teammates over a 24-hour hackathon, managing several microservices and an LLM],
+)
+#project_item(
+  name: link("https://www.traudt.dev/projects/luckyliars")[Lucky Liars],
+  skills: "Hardware, Rust, Node, C++",
+  date: "February 2024",
+  [Won *1st* place at Corn Hacks for an AI-powered murder mystery game that generated a new story every time],
+  [Coordinated a team of 4 people to interface between a custom API server, a Rust game, and C++ hardware],
 )
