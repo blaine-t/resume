@@ -20,6 +20,7 @@
   location: "Lincoln, NE",
   date: "May 2027",
 )
+
 #resume_heading[Experience]
 #exp_item(
   role: "Software Engineering Intern (Hardware)",
@@ -31,4 +32,14 @@
   [Maintained and added features to the Hudl Focus React Native app, like native game controller support],
   [Became the *\#1* contributer in an existing Rust repository used for controlling our brand new cameras],
   [Utilized Claude Code and other AI tools to assist my workflows while practicing HITL (human-in-the-loop)]
+)
+#exp_item(
+  role: "Software Engineering Intern",
+  name: "Speedway Motors",
+  location: "Remote",
+  date: "May 2024 - May 2025",
+  [Improved developer experience by utilizing pnpm workspaces to reduce hot reloads from *200s to 2s* in Next.js],
+  [Worked with a remote team and lead Agile Scrum ceremonies to ensure epics and milestones were met on time],
+  [Migrated and refactored React contexts to Zustand stores to improve performance and reduce bounce rates],
+  [Developed .NET endpoints with GraphQL, creating industry leading experience for engine-swapped vehicles],
 )
