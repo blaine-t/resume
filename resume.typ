@@ -59,7 +59,7 @@
   skills: "Cloudflare, Rust, Typst",
   date: "July 2024 - Present",
   [Manage my personal portfolio and resume utilizing templates with static generation backed with source control],
-  [Optimize images with modern image compression for fast load times and a spot on the 512kb.club leaderboard]
+  [Optimize images with modern image compression for fast load times and a spot on the *512kb.club* leaderboard]
 )
 #project_item(
   name: link("https://www.traudt.dev/projects/corncycle")[CornCycle],
