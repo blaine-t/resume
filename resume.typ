@@ -13,7 +13,7 @@
 
 #resume_heading[Education]
 #edu_item(
-  name: "University of Nebraska-Lincoln (UNL)",
+  name: "University of Nebraska-Lincoln",
   degree: "B.S. in Computer Science; Minor in Business; Focus in Cybersecurity and Networking",
   honors: [*Honors:* Jeffrey S. Raikes School of Computer Science and Management],
   gpa: "4.00/4.00",
