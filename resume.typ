@@ -54,13 +54,6 @@
   [Migrated React contexts to Zustand stores to improve performance and reduce E-commerce bounce rates],
   [Developed .NET endpoints with GraphQL, creating an industry leading experience for engine-swapped vehicles],
 )
-#exp_item(
-  role: "Teaching Assistant",
-  name: "School of Computing & Raikes School",
-  location: "Lincoln, NE",
-  date: "January 2024 - May 2025",
-  [Mentored and provided positive feedback to new students from different backgrounds on CS fundamentals]
-)
 
 #resume_heading[Projects]
 #project_item(
