@@ -29,9 +29,20 @@
   date: "May 2025 - Present",
   [Improved developer experience by optimizing usage of Docker to reduce warm compile times from *3m to 20s*],
   [Finalized manual control beta to open up Hudl to an estimated *\$3 million* in new revenue from soccer],
-  [Maintained and added features to the Hudl Focus React Native app, like native game controller support],
+  [Maintaining and adding features to the Hudl Focus React Native app, like native game controller support],
   [Became the *\#1* contributer in an existing Rust repository used for controlling our brand new sport cameras],
-  [Utilized Claude Code and other AI tools to assist my workflows while practicing HITL (human-in-the-loop)]
+  [Utilizing Claude Code and other AI tools to assist my workflows while practicing HITL (human-in-the-loop)]
+)
+#exp_item(
+  role: "Startup CIO & Developer",
+  name: link("https://kempt.org")[Kempt],
+  location: "Lincoln, NE",
+  date: "August 2026 - Present",
+  [Pitched at pitch competitions with a team that won *\$100K* in initial startup funding for Startup Studio],
+  [Designed the full systems architecture from frontend to backend with C\# .NET, Postgres, and React Native],
+  [Managing multiple developer environments to ensure proper support and quality for all distributed platforms],
+  [Oversee safe usage of cloud and AI tooling, ensuring zero trust security and secure data privacy for developers],
+  [Interviewing for customer discovery to learn about the problem space and find our customer base],
 )
 #exp_item(
   role: "Software Engineering Intern",
@@ -41,7 +52,7 @@
   [Improved developer experience by utilizing pnpm workspaces to reduce hot reloads from *200s to 2s* in Next.js],
   [Collaborated with a remote team and lead Agile Scrum ceremonies to ensure epics were met on time],
   [Migrated React contexts to Zustand stores to improve performance and reduce E-commerce bounce rates],
-  [Developed .NET endpoints with GraphQL, creating industry leading experience for engine-swapped vehicles],
+  [Developed .NET endpoints with GraphQL, creating an industry leading experience for engine-swapped vehicles],
 )
 #exp_item(
   role: "Teaching Assistant",
@@ -82,4 +93,8 @@
 #skill_item(
   category: "Hardware Development",
   skills: "Arduino, ESP-IDF, Pico SDK, custom x86 PCs, circuit/PCB design (KiCad)",
+)
+#skill_item(
+  category: "AI Tools",
+  skills: "Beads, Claude Code, Codex, Github Copilot, llama.cpp, LM Studio, Oh My Pi, Ollama, Openspec, Pi"
 )
