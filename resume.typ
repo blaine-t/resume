@@ -14,7 +14,7 @@
 #resume_heading[Education]
 #edu_item(
   name: "University of Nebraska-Lincoln (UNL)",
-  degree: "B.S. in Computer Science; Minor in Business; Focus in Cybersecurity & Networking",
+  degree: "B.S. in Computer Science; Minor in Business; Focus in Cybersecurity and Networking",
   honors: [*Honors:* Jeffrey S. Raikes School of Computer Science and Management],
   gpa: "4.00/4.00",
   location: "Lincoln, NE",
@@ -34,7 +34,7 @@
   [Utilizing Claude Code and other AI tools to assist my workflows while practicing HITL (human-in-the-loop)]
 )
 #exp_item(
-  role: "Startup CIO & Developer",
+  role: "Startup CIO",
   name: link("https://kempt.org")[Kempt],
   location: "Lincoln, NE",
   date: "August 2026 - Present",
