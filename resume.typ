@@ -23,7 +23,7 @@
 
 #resume_heading[Experience]
 #exp_item(
-  role: "Software Engineering Intern (HW)",
+  role: "Device Software Engineering Intern",
   name: "Hudl",
   location: "Lincoln, NE",
   date: "May 2025 - Present",
