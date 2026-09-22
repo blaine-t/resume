@@ -16,33 +16,31 @@
   name: "University of Nebraska-Lincoln",
   degree: "B.S. in Computer Science; Minor in Business; Focus in Cybersecurity and Networking",
   honors: [*Honors:* Jeffrey S. Raikes School of Computer Science and Management],
-  gpa: "4.00/4.00",
+  gpa: "4.0",
   location: "Lincoln, NE",
   date: "May 2027",
 )
 
 #resume_heading[Experience]
 #exp_item(
-  role: "Software Engineering Intern (Hardware)",
+  role: "Software Engineering Intern (HW)",
   name: "Hudl",
   location: "Lincoln, NE",
   date: "May 2025 - Present",
-  [Improved developer experience by optimizing usage of Docker to reduce warm compile times from *3m to 20s*],
-  [Finalized manual control beta to open up Hudl to an estimated *\$3 million* in new revenue from soccer],
-  [Maintaining and adding features to the Hudl Focus React Native app, like native game controller support],
-  [Became the *\#1* contributer in an existing Rust repository used for controlling our brand new sport cameras],
-  [Utilizing Claude Code and other AI tools to assist my workflows while practicing HITL (human-in-the-loop)]
+  [Improved developer experience by optimizing usage of Docker to reduce warm compile times from 3m to 20s],
+  [Finalized manual control beta to open up Hudl to an estimated *\$3,000,000* in new revenue from soccer],
+  [Maintain and add features to the Hudl Focus React Native app, like native game controller support],
+  [Became the \#1 contributer in an existing internal Rust repository used for controlling third party cameras],
+  [Utilize Claude Code and other AI tools to assist workflows while practicing human-in-the-loop agentic coding]
 )
 #exp_item(
   role: "Startup CIO",
   name: link("https://kempt.org")[Kempt],
   location: "Lincoln, NE",
   date: "August 2026 - Present",
-  [Pitched at pitch competitions with a team that won *\$100K* in initial startup funding for Startup Studio],
-  [Designed the full systems architecture from frontend to backend with C\# .NET, Postgres, and React Native],
-  [Managing multiple developer environments to ensure proper support and quality for all distributed platforms],
-  [Oversee safe usage of cloud and AI tooling, ensuring zero trust security and secure data privacy for developers],
-  [Interviewing for customer discovery to learn about the problem space and find our customer base],
+  [Present at pitch competitions with a team that won *\$100,000* in initial startup funding for Startup Studio],
+  [Design the full systems architecture from frontend to backend with C\# .NET, Postgres, and React Native],
+  [Interview for customer discovery to learn more about the problem space and find a paying customer base],
 )
 #exp_item(
   role: "Software Engineering Intern",
@@ -61,7 +59,7 @@
   skills: "Hardware, Arduino, C, C++",
   date: "February 2025",
   [Won *2nd* place at Corn Hacks experimenting with Bluepad32, ESP-NOW, OpenCV, and Pygame],
-  [Built RC Cars with ESP32s and IR LEDs that interacted with the game through an Xbox Kinect and Pico W],
+  [Built RC Cars with ESP32s and IR LEDs that interacted with Pygame through an Xbox Kinect and Pico W],
 )
 #project_item(
   name: link("https://www.traudt.dev/projects/lisa")[LISA — a Local Intelligent Student Advisor],
