@@ -55,6 +55,13 @@
 
 #resume_heading[Projects]
 #project_item(
+  name: link("https://traudt.dev")[Personal Portfolio],
+  skills: "Cloudflare, Rust, Typst",
+  date: "July 2024 - Present",
+  [Manage my personal portfolio and resume utilizing templates with static generation backed with source control],
+  [Optimize images with state of the art compression fast load times to get on the 512kb.club leaderboard]
+)
+#project_item(
   name: link("https://www.traudt.dev/projects/corncycle")[CornCycle],
   skills: "Hardware, Arduino, C, C++",
   date: "February 2025",
