@@ -30,7 +30,7 @@
   [Improved developer experience by optimizing usage of Docker to reduce warm compile times from 3m to 20s],
   [Finalized manual control beta to open up Hudl to an estimated *\$3,000,000* in new revenue from soccer],
   [Maintain and add features to the Hudl Focus React Native app, like native game controller support],
-  [Became the \#1 contributer in an existing internal Rust repository used for controlling third party cameras],
+  [Became the \#1 contributor in an existing internal Rust repository used for controlling third party cameras],
   [Utilize Claude Code and other AI tools to assist workflows while practicing human-in-the-loop agentic coding]
 )
 #exp_item(
@@ -59,11 +59,11 @@
   skills: "Cloudflare, Rust, Typst",
   date: "July 2024 - Present",
   [Manage my personal portfolio and resume utilizing templates with static generation backed with source control],
-  [Optimize images with state of the art compression fast load times to get on the 512kb.club leaderboard]
+  [Optimize images with modern image compression for fast load times and a spot on the 512kb.club leaderboard]
 )
 #project_item(
   name: link("https://www.traudt.dev/projects/corncycle")[CornCycle],
-  skills: "Hardware, Arduino, C, C++",
+  skills: "Hardware, Arduino, C++",
   date: "February 2025",
   [Won *2nd* place at Corn Hacks experimenting with Bluepad32, ESP-NOW, OpenCV, and Pygame],
   [Built RC Cars with ESP32s and IR LEDs that interacted with Pygame through an Xbox Kinect and Pico W],
@@ -85,8 +85,16 @@
 
 #resume_heading[Skills]
 #skill_item(
-  category: "Software Development",
-  skills: "C#, C++, Docker, GNU/Linux, JavaScript, .NET, Python, React, Rust, SQL, TypeScript",
+  category: "Languages",
+  skills: "Rust, C#, Typescript, C++, Python, HTML/CSS, JavaScript, SQL (Postgres), Typst",
+)
+#skill_item(
+  category: "Frameworks",
+  skills: ".NET, Entity, Swagger, Expo, React, React Native, Tokio, Node.js"
+)
+#skill_item(
+  category: "Developer Tools",
+  skills: "GNU/Linux, AWS, Teamcity, Burp Suite, Podman, Docker, Jira, Git, VS Code, Slack, Postman"
 )
 #skill_item(
   category: "Hardware Development",
